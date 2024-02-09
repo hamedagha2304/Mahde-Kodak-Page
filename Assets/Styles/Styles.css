@@ -1,0 +1,21 @@
+:root {
+  --background-color: #c8ecfc;
+  --text-color1: #333;
+  --text-color2: #828282;
+  --color-green: #3ca642;
+  --color-yellow: #f29f05;
+  --color-violet: #735ba5;
+  --color-red: #d93735;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Vazirmatn";
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../Fonts/Vazir-Medium.woff2") format("woff2");
+}
